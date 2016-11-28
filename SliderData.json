@@ -1,0 +1,22 @@
+sliderData = [
+  {
+    "src" : "https://www.travelexcellence.com/images/movil/La_Paz_Waterfall.jpg",
+    "text": "Lala 1"
+  },
+  {
+    "src" : "http://www.parasholidays.in/blog/wp-content/uploads/2014/05/holiday-tour-packages-for-usa.jpg",
+    "text": "Lala 2"
+  },
+  {
+    "src" : "http://clickker.in/wp-content/uploads/2016/03/new-zealand-fy-8-1-Copy.jpg",
+    "text": "Lala 3"
+  },
+  {
+    "src" : "http://images.kuoni.co.uk/73/malaysia-21747826-1446726337-ImageGalleryLightbox.jpg",
+    "text": "Lala 4"
+  },
+  {
+    "src" : "http://www.kimcambodiadriver.com/uploads/images/tours/kim-cambodia-driver-angkor-wat.jpg",
+    "text": "Lala 5"
+  }
+];
