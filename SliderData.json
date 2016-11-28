@@ -1,4 +1,4 @@
-sliderData = [
+[
   {
     "src" : "https://www.travelexcellence.com/images/movil/La_Paz_Waterfall.jpg",
     "text": "Lala 1"
@@ -19,4 +19,4 @@ sliderData = [
     "src" : "http://www.kimcambodiadriver.com/uploads/images/tours/kim-cambodia-driver-angkor-wat.jpg",
     "text": "Lala 5"
   }
-];
+]
